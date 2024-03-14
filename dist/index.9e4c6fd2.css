@@ -1,0 +1,37 @@
+.head {
+  border: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  display: flex;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-item > ul {
+  gap: 100px;
+  font-size: 20px;
+  list-style-type: none;
+  display: flex;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-card {
+  border: 1px solid #000;
+  width: 300px;
+  height: 450px;
+  padding: 10px;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  gap: 10px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
